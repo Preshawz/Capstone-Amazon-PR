@@ -21,9 +21,9 @@ This stage inlvolved;
    - Delimit category column
    - create calculated column
 
-Exploratory Data Analysis
+## Exploratory Data Analysis
 EDA involved exploring data to answer questions like;
 
-1.What is the average discount percentage by product category?
+1. What is the average discount percentage by product category?
 2. How many products are listed under each category?
 3. What is the total number of reviews per category? etc.
