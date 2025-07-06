@@ -16,12 +16,14 @@ This stage inlvolved;
 1. Data Importing from Access
 2. Making a duplicate of data
 3. Data Cleaning'
-   - Re
+   - Removal of unwanted cloumns
+   - Removal of duplicates data by product_id
+   - Delimit category column
+   - create calculated column
 
 Exploratory Data Analysis
 EDA involved exploring data to answer questions like;
 
-Which product category had the highest sales?
-What are the Top 3 and Bottom 3 regions in terms of sales?
-What were the total sales of appliances in Ontario? etc.
-Data Analysis
+1.What is the average discount percentage by product category?
+2. How many products are listed under each category?
+3. What is the total number of reviews per category? etc.
