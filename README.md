@@ -77,7 +77,8 @@ This involved inserting a Pivot table
 ### Result
 
 Results were visuaized using charts(Bar, Pie) and tables which can be veived 
-[Amazon case PROJECT.xlsx](https://github.com/user-attachments/files/21091609/Amazon.case.PROJECT.xlsx)
+[Amazon case PROJECT.xlsx](https://github.com/user-attachments/files/21091645/Amazon.case.PROJECT.xlsx)
+
 
 
 ### Key Insights 
