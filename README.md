@@ -75,4 +75,8 @@ This involved inserting a Pivot table
 -	Values: Average of discount_percentage_clean
 
 ### Result
-Result was visuaized using charts(Bar, Pie) and tables.
+
+Result was visuaized using charts(Bar, Pie) and tables which can be veived 
+[Amazon case PROJECT.xlsx](https://github.com/user-attachments/files/21090907/Amazon.case.PROJECT.xlsx)
+
+
