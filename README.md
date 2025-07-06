@@ -72,3 +72,6 @@ This involved inserting a Pivot table
 14. Categories with Highest Discounts
 -	Rows: category
 -	Values: Average of discount_percentage_clean
+
+### Result
+Result was visuaized using charts(Bar, Pie) and tables.
