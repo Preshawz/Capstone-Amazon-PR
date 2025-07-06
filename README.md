@@ -81,4 +81,24 @@ Result was visuaized using charts(Bar, Pie) and tables which can be veived
 
 ### Key Insights 
 
+#### Top-Performing Category:
+
+- Electronics and Computer&Acessories: Highest revenue turnover, high ratings with more discount percentage
+
+#### Underperforming Categories:
+
+- Toys and Games: Low revenue turnover, no discounts, and low ratings
+- Home Improvement and Health & Personal Care: High discount percentage, but low revenue turnovers and ratings
+
+#### Customer Engagement:
+
+- Computer and Accessories: High number of customer reviews
+
+### Recommendations:
+
+- Increase/Maintain discounts for Electronics and Computer&Acessories to maintain momentum
+- Investigate reasons for low performance in Toys and Games, Home Improvement, and Health & Personal Care
+- Encourage customer reviews for underperforming categories
+
+
 
