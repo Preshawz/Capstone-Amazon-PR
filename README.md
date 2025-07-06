@@ -96,9 +96,9 @@ Result was visuaized using charts(Bar, Pie) and tables which can be veived
 
 ### Recommendations:
 
-- Increase/Maintain discounts for Electronics and Computer&Acessories to maintain momentum
-- Investigate reasons for low performance in Toys and Games, Home Improvement, and Health & Personal Care
-- Encourage customer reviews for underperforming categories
+1. Increase/Maintain discounts for Electronics and Computer&Acessories to maintain momentum
+2. Investigate reasons for low performance in Toys and Games, Home Improvement, and Health & Personal Care
+3. Encourage customer reviews for underperforming categories
 
 
 
