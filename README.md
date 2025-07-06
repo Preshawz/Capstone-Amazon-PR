@@ -11,6 +11,7 @@ The data is an Excel file from Amazon product page
 Excel (Analysis and Visualisation)
 
 ### Data Preparation
+
 This stage inlvolved;
 
 1. Data Importing from Access
@@ -75,3 +76,4 @@ This involved inserting a Pivot table
 
 ### Result
 Result was visuaized using charts(Bar, Pie) and tables.
+[AMAZON EXCEL DATA.docx](https://github.com/user-attachments/files/21090881/AMAZON.EXCEL.DATA.docx)
