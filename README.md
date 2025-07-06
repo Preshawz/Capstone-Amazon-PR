@@ -76,4 +76,3 @@ This involved inserting a Pivot table
 
 ### Result
 Result was visuaized using charts(Bar, Pie) and tables.
-[AMAZON EXCEL DATA.docx](https://github.com/user-attachments/files/21090881/AMAZON.EXCEL.DATA.docx)
