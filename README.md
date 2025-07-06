@@ -77,7 +77,8 @@ This involved inserting a Pivot table
 ### Result
 
 Results were visuaized using charts(Bar, Pie) and tables which can be veived 
-[Amazon case PROJECT.xlsx](https://github.com/user-attachments/files/21090907/Amazon.case.PROJECT.xlsx)
+[Amazon case PROJECT.xlsx](https://github.com/user-attachments/files/21091609/Amazon.case.PROJECT.xlsx)
+
 
 ### Key Insights 
 
@@ -88,6 +89,7 @@ Results were visuaized using charts(Bar, Pie) and tables which can be veived
 #### Underperforming Categories:
 
 - Toys and Games: Low revenue turnover, no discounts, and low ratings
+
 - Home Improvement and Health & Personal Care: High discount percentage, but low revenue turnovers and ratings
 
 #### Customer Engagement:
